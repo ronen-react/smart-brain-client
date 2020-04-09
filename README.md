@@ -4,7 +4,7 @@
 
 [CONTRIBUTE](.#4---contribute)
 [`this is a heading`](#this-is-a-heading)
-[`this is not a heading`](#this-is-not-a-heading)
+[this is not a heading](#this-is-not-a-heading)
 
 
 [Notes on Creat React App](#-available-scripts)
