@@ -120,6 +120,6 @@ The “homepage” specifies the host path where you want to host the applicatio
 $ npm run deploy
 
 
-# This is a heading
+# this-is-a-heading
 
 
