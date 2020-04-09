@@ -3,7 +3,7 @@
 
 
 [CONTRIBUTE](.#4---contribute)
-[`thisisaheading`](#thisisaheading)
+[`thisisaheading`](#this-is-a-heading)
 
 
 [Notes on Creat React App](#-available-scripts)
@@ -133,4 +133,4 @@ Strings
 **strings in python as stored as sequences of letters in memory**
 
 ### 4 - CONTRIBUTE 
-# thisisaheading
+# this is a heading
