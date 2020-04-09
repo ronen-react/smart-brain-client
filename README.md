@@ -1,13 +1,10 @@
 
-**Python Types:** **[`Numbers`](#numbers)__,__[`Strings`](#strings)
 
 
-[CONTRIBUTE](.#4---contribute)
-[`this is a heading`](#this-is-a-heading)
 [this is not a heading](#this-is-not-a-heading)
 
 
-[Notes on Creat React App](#-available-scripts)
+[Notes on Creat React App](#available-scripts)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Available Scripts
