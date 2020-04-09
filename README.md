@@ -1,6 +1,6 @@
 
 [Notes on Creat React App](#available-scripts)
-[ Switching remote GITHUB URLs from HTTPS to SSH](#switching-remote-githuburls-fromhttps-to-ssh)
+[ Switching remote GITHUB URLs from HTTPS to SSH](#switching-remote-github-urls-fromhttps-to-ssh)
 [Notes on deploying rect in Github](#deploy-react-app-to-github)
 
 
