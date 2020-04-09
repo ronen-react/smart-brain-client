@@ -1,5 +1,6 @@
 
-On TOC
+**Python Types:** **[`Numbers`](#numbers)__,__[`Strings`](#strings)
+
 
 [CONTRIBUTE](.#4---contribute)
 [this-is-a-heading](#-this-is-a-heading)
@@ -127,3 +128,6 @@ $ npm run deploy
 
 
 ### 4 - CONTRIBUTE
+Strings
+----
+**strings in python as stored as sequences of letters in memory**
