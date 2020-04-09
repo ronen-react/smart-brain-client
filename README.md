@@ -1,13 +1,11 @@
 
-
-
-[this is not a heading](#this-is-not-a-heading)
-
-
 [Notes on Creat React App](#available-scripts)
+[ Switching remote GITHUB URLs from HTTPS to SSH](#switching-remote-githuburls-fromhttps-to-ssh)
+[Notes on deploying rect in Github](#deploy-react-app-to-github)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-# Available Scripts
 # kkAvailable Scripts
 
 In the project directory, you can run:
@@ -78,7 +76,7 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 
-## Switching remote GITHUB URLs from HTTPS to SSH
+# Switching remote GITHUB URLs from HTTPS to SSH
 
 ### List your existing remotes in order to get the name of the remote you want to change.
 $ git remote -v
@@ -93,7 +91,7 @@ $ git remote -v
 > origin  git@github.com:USERNAME/REPOSITORY.git (push)
 
 
-## Deploy React app to Github
+# Deploy React app to Github
 
 Reference:  https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d
 
@@ -118,18 +116,4 @@ The “homepage” specifies the host path where you want to host the applicatio
 “deploy” specifies which branch and directory to deploy.
 
 
-##### Deploy application
-$ npm run deploy
 
-
-# this-is-a-heading
-
-
-### 4 - CONTRIBUTE
-Strings
-----
-**strings in python as stored as sequences of letters in memory**
-
-### 4 - CONTRIBUTE 
-# this is a heading
-# This is not a heading
