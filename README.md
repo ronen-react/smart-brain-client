@@ -79,16 +79,24 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 # Switching remote GITHUB URLs from HTTPS to SSH
 
 ### List your existing remotes in order to get the name of the remote you want to change.
-$ git remote -v
+
+```$ git remote -v
+```
+```
 > origin  https://github.com/USERNAME/REPOSITORY.git (fetch)
 > origin  https://github.com/USERNAME/REPOSITORY.git (push)
+```
+
 ### Change your remote's URL from HTTPS to SSH with the git remote set-url command.
-$ git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
+```$ git remote set-url origin git@github.com:USERNAME/REPOSITORY.git
+```
 ### Verify that the remote URL has changed.
+```
 $ git remote -v
-### Verify new remote URL
+
 > origin  git@github.com:USERNAME/REPOSITORY.git (fetch)
 > origin  git@github.com:USERNAME/REPOSITORY.git (push)
+```
 
 
 # Deploy React app to Github
@@ -97,8 +105,12 @@ Reference:  https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazi
 
 After pushing files to origin do:
 ##### Deploy application
+```
  install gh-pages package
+ ```
+ ```
 $ npm install --save gh-pages
+```
 ##### Deploy application
  Modify package.json:
 
