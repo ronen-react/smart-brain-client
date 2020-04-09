@@ -1,12 +1,12 @@
 
-- [Notes on Creat React App](#available-scripts)  
-- [Switching remote GITHUB URLs from HTTPS to SSH](#switching-remote-github-urls-from-https-to-ssh)  
-- [Notes on deploying rect in Github](#deploy-react-app-to-github)  
+1. [Notes on Creat React App](#available-scripts)  
+2. [Switching remote GITHUB URLs from HTTPS to SSH](#switching-remote-github-urls-from-https-to-ssh)  
+3. [Notes on deploying rect in Github](#deploy-react-app-to-github)  
 
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-# kkAvailable Scripts
+#Available Scripts
 
 In the project directory, you can run:
 
