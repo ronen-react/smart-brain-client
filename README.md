@@ -3,7 +3,7 @@
 
 
 [CONTRIBUTE](.#4---contribute)
-[this-is-a-heading](#-this-is-a-heading)
+[$this-is-a-heading](#-this-is-a-heading)
 
 
 [Notes on Creat React App](#-available-scripts)
