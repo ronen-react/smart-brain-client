@@ -126,6 +126,10 @@ The “homepage” specifies the host path where you want to host the applicatio
 
 “deploy”: "gh-pages -d build"
 “deploy” specifies which branch and directory to deploy.
+- deploy application
+```
+$ npm run deploy
+```
 
 
 
