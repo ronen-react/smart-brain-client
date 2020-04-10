@@ -1,3 +1,8 @@
+Cle\ient is deployed in:
+
+https://ronen567.github.io/smart-brain-client/
+
+See notes on Github deploy
 
 1. [Notes on Creat React App](#available-scripts)  
 2. [Switching remote GITHUB URLs from HTTPS to SSH](#switching-remote-github-urls-from-https-to-ssh)  
