@@ -1,5 +1,9 @@
-Client is deployed in:
 
+
+Client is deployed in:
+heroku:
+https://smart-brain-client.herokuapp.com/
+And also in:
 https://ronen567.github.io/smart-brain-client/
 
 See notes on Github deploy
