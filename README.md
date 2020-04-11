@@ -1,4 +1,4 @@
-Cle\ient is deployed in:
+Client is deployed in:
 
 https://ronen567.github.io/smart-brain-client/
 
