@@ -137,4 +137,30 @@ $ npm run deploy
 ```
 
 
+# Deploy on heroku:
+
+## From Heroku page:
+- Create a new App - give name e.g. smart-brain-client
+- It gives us commands to setup everything:
+
+(If you haven't already, log in to your Heroku account and follow the prompts to create a new SSH public key.) - was done before
+
+$ heroku login
+Create a new Git repository
+Initialize a git repository in a new or existing directory
+
+$ cd my-project/
+$ git init
+$ heroku git:remote -a smart-brain-client
+Deploy your application
+Commit your code to the repository and deploy it to Heroku using Git.
+
+$ git add .
+$ git commit -am "make it better"
+$ git push heroku master
+
+then:
+ heroku open
+
+
 
